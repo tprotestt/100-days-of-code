@@ -8,3 +8,12 @@
 **Thoughts:** I really need to get used to using a Mac again. Coding in windows for 3 years and not having used MacOS since my junior year has really taken a toll. I also need to pay attention to the files I'm editting and where they are located. I spent way too long trying to figure out why my code changes weren't being pushed to expo... Turns out I was editting the file that was automatically in my iCloud drive, and not the one that I was telling yarn to package. All in all I'm pretty excited to continue this work. I spent way more than an hour on today's work, but I really wanted to push past the initial setup to get things rolling. 
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+### Day 1: March 19th, 2018 (Getting aquainted with ReactJS)
+##### 
+
+**Today's Progress**: I followed along with the example getting myself aquainted with JS. For some reason I have a fatal bug so I can't view the app, just the error. I also need to figure out how to make the add button appear "pressable" 
+
+**Thoughts:** I feel pretty overwhelmed with how much JS I don't understand. There's so much syntax I don't understand. Not sure whether to pause and do some research on JS before I continue, or just to keep chugging along hoping I'll grasp it along the way. 
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
