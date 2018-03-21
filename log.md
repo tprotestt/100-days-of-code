@@ -17,3 +17,12 @@
 **Thoughts:** I feel pretty overwhelmed with how much JS I don't understand. There's so much syntax I don't understand. Not sure whether to pause and do some research on JS before I continue, or just to keep chugging along hoping I'll grasp it along the way. 
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+### Day 2: March 19th, 2018 (Troubleshooting)
+##### 
+
+**Today's Progress**: I was able to troubleshoot through my issue from yesterday as well as power through a couple more issues I ran into today. Most were spelling/settings in my config file. I am running into an issue with my todo's being added to ElasticSearch, but I think I might be onto something there.  
+
+**Thoughts:** A few wins today! I'm getting quicker at determining causes of bugs and becoming further acquainted with react.js. Feeling good!
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
