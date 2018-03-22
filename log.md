@@ -26,3 +26,12 @@
 **Thoughts:** A few wins today! I'm getting quicker at determining causes of bugs and becoming further acquainted with react.js. Feeling good!
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+### Day 3: March 20th, 2018 (More Troubleshooting)
+##### 
+
+**Today's Progress**: Today's progress is similar to yesterday's. I was able to troubleshoot another bug today but was immediately stopped on the next one that presented itself. Todos are now pushing to ElasticSearch but the todos are not displaying on the front end.   
+
+**Thoughts:** A little frustrated. Getting a little impatient. Spent over an hour plugging away. Will come back tomorrow with some positivity. 
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
