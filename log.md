@@ -35,3 +35,12 @@
 **Thoughts:** A little frustrated. Getting a little impatient. Spent over an hour plugging away. Will come back tomorrow with some positivity. 
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+### Day 4: March 21th, 2018 (More Troubleshooting, No Progress)
+##### 
+
+**Today's Progress**: Didn't make any progress today. Went over all of my code to make sure there weren't any typos. Trying to keep in mind that with only coding an hour a day, while I've been working on the same problem during the span of 2 days, I have only been stuck for 1.5 hours. I've had worse. 
+
+**Thoughts:** Trying to keep in mind that with only coding an hour a day, while I've been working on the same problem during the span of 2 days, I have only been stuck for 1.5 hours. I've had worse.  
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
