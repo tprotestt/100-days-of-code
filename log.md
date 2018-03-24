@@ -44,3 +44,12 @@
 **Thoughts:** Trying to keep in mind that with only coding an hour a day, while I've been working on the same problem during the span of 2 days, I have only been stuck for 1.5 hours. I've had worse.  
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+### Day 5: March 22th, 2018 (Finished...)
+##### 
+
+**Today's Progress**: Finished the todo app. Played around with styles and started researching other elements to add to it to spice it up a little bit. 
+
+**Thoughts:** Feeling rather underwhelmed. Will be continuing research over the next few days and see if I can spice this app up a little bit.   
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
