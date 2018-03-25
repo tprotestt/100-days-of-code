@@ -53,3 +53,13 @@
 **Thoughts:** Feeling rather underwhelmed. Will be continuing research over the next few days and see if I can spice this app up a little bit.   
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+### Day 6: March 23th, 2018 (Taking a step back)
+##### 
+
+**Today's Progress**: Working through freecodecamp's little program. Need to re-educate myself in css and practice my javascript a little before I continue into some coding challenges. 
+
+**Thoughts:** Excited!   
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
