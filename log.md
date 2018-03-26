@@ -18,7 +18,7 @@
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
-### Day 2: March 19th, 2018 (Troubleshooting)
+### Day 2: March 20th, 2018 (Troubleshooting)
 ##### 
 
 **Today's Progress**: I was able to troubleshoot through my issue from yesterday as well as power through a couple more issues I ran into today. Most were spelling/settings in my config file. I am running into an issue with my todo's being added to ElasticSearch, but I think I might be onto something there.  
@@ -27,7 +27,7 @@
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
-### Day 3: March 20th, 2018 (More Troubleshooting)
+### Day 3: March 21th, 2018 (More Troubleshooting)
 ##### 
 
 **Today's Progress**: Today's progress is similar to yesterday's. I was able to troubleshoot another bug today but was immediately stopped on the next one that presented itself. Todos are now pushing to ElasticSearch but the todos are not displaying on the front end.   
@@ -36,7 +36,7 @@
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
-### Day 4: March 21th, 2018 (More Troubleshooting, No Progress)
+### Day 4: March 22th, 2018 (More Troubleshooting, No Progress)
 ##### 
 
 **Today's Progress**: Didn't make any progress today. Went over all of my code to make sure there weren't any typos. Trying to keep in mind that with only coding an hour a day, while I've been working on the same problem during the span of 2 days, I have only been stuck for 1.5 hours. I've had worse. 
@@ -45,7 +45,7 @@
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
-### Day 5: March 22th, 2018 (Finished...)
+### Day 5: March 23th, 2018 (Finished...)
 ##### 
 
 **Today's Progress**: Finished the todo app. Played around with styles and started researching other elements to add to it to spice it up a little bit. 
@@ -54,10 +54,18 @@
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
-### Day 6: March 23th, 2018 (Taking a step back)
+### Day 6: March 24th, 2018 (Taking a step back)
 ##### 
 
 **Today's Progress**: Working through freecodecamp's little program. Need to re-educate myself in css and practice my javascript a little before I continue into some coding challenges. 
+
+**Thoughts:** Excited!   
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+### Day 7: March 24th, 2018 (More styling!)
+##### 
+
+**Today's Progress**: Continued working through freecodecamp's little program. 
 
 **Thoughts:** Excited!   
 
