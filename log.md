@@ -62,7 +62,7 @@
 **Thoughts:** Excited!   
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
-### Day 7: March 24th, 2018 (More styling!)
+### Day 7: March 25th, 2018 (More styling!)
 ##### 
 
 **Today's Progress**: Continued working through freecodecamp's little program. 
@@ -71,3 +71,11 @@
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
+### Day 8: March 26th, 2018 (Understanding React.js)
+##### 
+
+**Today's Progress**: Researched ins and outs of react.js 
+
+**Thoughts:** One of those days that I didn't get to sit down until I started coding. By this time, I had zero motivation to actually code, but I sat through some tutorials anyways. NEED MORE HOURS IN THE DAY.   
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
