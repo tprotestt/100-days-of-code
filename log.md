@@ -79,3 +79,13 @@
 **Thoughts:** One of those days that I didn't get to sit down until I started coding. By this time, I had zero motivation to actually code, but I sat through some tutorials anyways. NEED MORE HOURS IN THE DAY.   
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+### Day 9: March 27th, 2018 (Rounding out research with React.js)
+##### 
+
+**Today's Progress**: Finished trucking through a React.js class.  
+
+**Thoughts:** Feeling good. Feeling creative. Feeling inspired. Thinking of starting to build out a website for Brute Strength...
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
