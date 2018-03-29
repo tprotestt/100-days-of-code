@@ -89,3 +89,12 @@
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
+### Day 10: March 28th, 2018 (Starting a website!!)
+##### 
+
+**Today's Progress**: Started working on a website for my gym.  
+
+**Thoughts:** Feeling stoked about these code gains!!
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
