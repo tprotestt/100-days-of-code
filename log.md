@@ -98,3 +98,23 @@
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
+### Day 11: March 29th, 2018 (Starting a website!!)
+##### 
+
+**Today's Progress**: Started working on a website for my gym.  
+
+**Thoughts:** Feeling stoked about these code gains!!
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+### Day 12: March 30th, 2018 (Image Sliders)
+##### 
+
+**Today's Progress**: Tried out a few different image sliders today. Going to continue until I find what I'm visioning.  
+
+**Thoughts:** Need to get this on github. Tired.
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+
+
