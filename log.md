@@ -116,5 +116,12 @@
 
 **Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
+### Day 13: March 31st, 2018 (Bootstrap 4 /Jquery sliders.)
+##### 
 
+**Today's Progress**: Got my environment set up with all of the appropriate scripts to get this image slider started.   
+
+**Thoughts:** Taking time to read everything I can (within reason) that I'm putting into my environment, so things like getting started are taking longer than I'd expected. Hoping to have something to show for all the time soon.
+
+**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
 
