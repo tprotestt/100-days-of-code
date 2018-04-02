@@ -87,7 +87,7 @@
 
 **Thoughts:** Feeling good. Feeling creative. Feeling inspired. Thinking of starting to build out a website for Brute Strength...
 
-**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
 
 ### Day 10: March 28th, 2018 (Starting a website!!)
 ##### 
@@ -96,7 +96,7 @@
 
 **Thoughts:** Feeling stoked about these code gains!!
 
-**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
 
 ### Day 11: March 29th, 2018 (Starting a website!!)
 ##### 
@@ -105,7 +105,7 @@
 
 **Thoughts:** Feeling stoked about these code gains!!
 
-**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
 
 ### Day 12: March 30th, 2018 (Image Sliders)
 ##### 
@@ -114,7 +114,7 @@
 
 **Thoughts:** Need to get this on github. Tired.
 
-**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
 
 ### Day 13: March 31st, 2018 (Bootstrap 4 /Jquery sliders.)
 ##### 
@@ -123,5 +123,13 @@
 
 **Thoughts:** Taking time to read everything I can (within reason) that I'm putting into my environment, so things like getting started are taking longer than I'd expected. Hoping to have something to show for all the time soon.
 
-**Link to work:** https://github.com/tprotestt/todo/tree/todo-startingOut
+
+
+### Day 14: April 1st, 2018 (Styling on Slides!)
+##### 
+
+**Today's Progress**: Started styling this slider!   
+
+**Thoughts:** Tired.
+
 
