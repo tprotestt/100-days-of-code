@@ -132,4 +132,13 @@
 
 **Thoughts:** Tired.
 
+### Day 15: April 1st, 2018 (researched sliders)
+##### 
+
+**Today's Progress**: Watched some video tutorials on sliders  
+
+**Thoughts:** Had to default to videos today. Had to do some late night coding for work work and didn't have it in me. 
+
+
+
 
