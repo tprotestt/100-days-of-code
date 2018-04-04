@@ -139,6 +139,13 @@
 
 **Thoughts:** Had to default to videos today. Had to do some late night coding for work work and didn't have it in me. 
 
+### Day 16: April 2nd, 2018 (another slider...)
+##### 
+
+**Today's Progress**: Followed another slider tutorial and still don't have a working mock up.   
+
+**Thoughts:** Honestly kinda over logging this.  
+
 
 
 
