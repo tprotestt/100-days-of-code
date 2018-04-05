@@ -146,6 +146,13 @@
 
 **Thoughts:** Honestly kinda over logging this.  
 
+### Day 17: April 2nd, 2018 (another slider...)
+##### 
+
+**Today's Progress**: Wrestled with this slider   
+
+**Thoughts:** Meh  
+
 
 
 
