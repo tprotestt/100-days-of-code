@@ -132,27 +132,32 @@
 
 **Thoughts:** Tired.
 
-### Day 15: April 1st, 2018 (researched sliders)
+### Day 15: April 2nd, 2018 (researched sliders)
 ##### 
 
 **Today's Progress**: Watched some video tutorials on sliders  
 
 **Thoughts:** Had to default to videos today. Had to do some late night coding for work work and didn't have it in me. 
 
-### Day 16: April 2nd, 2018 (another slider...)
+### Day 16: April 3rd, 2018 (another slider...)
 ##### 
 
 **Today's Progress**: Followed another slider tutorial and still don't have a working mock up.   
 
 **Thoughts:** Honestly kinda over logging this.  
 
-### Day 17: April 2nd, 2018 (another slider...)
+### Day 17: April 4th, 2018 (another slider...)
 ##### 
 
 **Today's Progress**: Wrestled with this slider   
 
 **Thoughts:** Meh  
 
+### Days 18 and 19: April 5th and 6th, 2018 (more bootsrap)
+##### 
 
+**Today's Progress**: Attempted my third slider this week  
+
+**Thoughts:** Going to start from the ground up with some bootstrap tutorials tomorrow. Getting kind of sick of not knowing what files I need.  
 
 
