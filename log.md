@@ -160,4 +160,10 @@
 
 **Thoughts:** Going to start from the ground up with some bootstrap tutorials tomorrow. Getting kind of sick of not knowing what files I need.  
 
+### Day 20: April 7th, 2018 (Bootstrap from the top!)
+##### 
+
+**Today's Progress**: Started a bootstrap coding challenge
+
+**Thoughts:** Need to remind myself to stop trying to jump straight in and start from the ground up. The last 3 years of my job was trial by fire coding wise, so it's time to break the habit and form new and more productive ones.   
 
