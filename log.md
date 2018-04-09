@@ -167,3 +167,10 @@
 
 **Thoughts:** Need to remind myself to stop trying to jump straight in and start from the ground up. The last 3 years of my job was trial by fire coding wise, so it's time to break the habit and form new and more productive ones.   
 
+### Day 21: April 8th, 2018 (more bootstrap practice)
+##### 
+
+**Today's Progress**: More bootstrap practice
+
+**Thoughts:** Meh   
+
