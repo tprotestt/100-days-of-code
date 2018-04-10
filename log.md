@@ -172,5 +172,12 @@
 
 **Today's Progress**: More bootstrap practice
 
-**Thoughts:** Meh   
+**Thoughts:** Meh  
+
+### Day 22: April 9th, 2018 (more bootstrap practice)
+##### 
+
+**Today's Progress**: Fixed my nav and added the pretty neat and simple jumbotron bootstrap element. 
+
+**Thoughts:** Excited to keep playing!
 
