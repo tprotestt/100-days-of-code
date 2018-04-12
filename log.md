@@ -180,10 +180,18 @@
 **Today's Progress**: Fixed my nav and added the pretty neat and simple jumbotron bootstrap element. 
 
 **Thoughts:** Excited to keep playing!
+
 ### Day 23: April 10th, 2018 (bootstrap navs!)
 ##### 
 
 **Today's Progress**: Toyed around with bootstrap navs 
 
 **Thoughts:** Still excited!
+
+### Day 24: April 11th, 2018 (Bootstrap cards and a little playing around)
+##### 
+
+**Today's Progress**: Added some bootstrap cards and then played around with some styling to have a little fun
+
+**Thoughts:** Had some fun with this today! Was cool to be able to break free from challenges and just add a little of my own stuff to it. 
 
