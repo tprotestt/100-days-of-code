@@ -195,3 +195,10 @@
 
 **Thoughts:** Had some fun with this today! Was cool to be able to break free from challenges and just add a little of my own stuff to it. 
 
+### Day 25: April 13th, 2018 (Bootstrap navs)
+##### 
+
+**Today's Progress**: educated myself further on bootstrap navs
+
+**Thoughts:** Had to take yesterday off because honestly I just needed to. Not letting it happen twice in a row though!
+
