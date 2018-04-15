@@ -202,3 +202,9 @@
 
 **Thoughts:** Had to take yesterday off because honestly I just needed to. Not letting it happen twice in a row though!
 
+### Day 26: April 15th, 2018 (Bootstrap nav added)
+##### 
+
+**Today's Progress**: added a bootstrap nav to my page
+
+**Thoughts:** disinterested
