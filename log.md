@@ -208,3 +208,10 @@
 **Today's Progress**: added a bootstrap nav to my page
 
 **Thoughts:** disinterested
+
+### Day 27: April 17th, 2018 (Played with scss and finished bootstrap research)
+##### 
+
+**Today's Progress**: Finished bootstrap research.
+
+**Thoughts:** Feeling less grumpy now that I switched to every other day and using my day off for music :)
