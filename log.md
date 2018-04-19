@@ -215,3 +215,11 @@
 **Today's Progress**: Finished bootstrap research.
 
 **Thoughts:** Feeling less grumpy now that I switched to every other day and using my day off for music :)
+ 
+### Day 28: April 19th, 2018 (Planning)
+##### 
+
+**Today's Progress**: Planned out the rest of the pages for this site
+
+**Thoughts:** Intrigued
+
